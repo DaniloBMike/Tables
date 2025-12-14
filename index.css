@@ -1,0 +1,15 @@
+* {
+    text-decoration: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    min-height: 100vh;
+}
+
+h1 {
+    background-color: aquamarine;
+    display: inline-block;
+    
+}
