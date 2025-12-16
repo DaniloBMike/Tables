@@ -10,6 +10,15 @@ body {
 
 h1 {
     background-color: aquamarine;
-    display: inline-block;
-    
+    text-align: center;
+}
+
+section {
+    background-color: rgb(255, 127, 127);
+    height: 65vh;
+    width: 50vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-self: center;
 }
