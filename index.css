@@ -14,11 +14,19 @@ h1 {
 }
 
 section {
-    background-color: rgb(255, 127, 127);
-    height: 65vh;
-    width: 50vw;
+    background-color: rgba(127, 232, 255, 0.474);
+    height: 600px;
+    width: 90%;
     display: flex;
     justify-content: center;
-    align-items: center;
     justify-self: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+table {
+    background-color: rgba(71, 86, 255, 0.392);
+    height: 200px;
+    width: 500px;
+    display: inline-block;
 }
