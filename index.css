@@ -6,6 +6,7 @@
 
 body {
     min-height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
@@ -27,6 +28,15 @@ section {
 table {
     background-color: rgba(71, 86, 255, 0.392);
     height: 200px;
-    width: 500px;
-    display: inline-block;
-}    
+    width: 800px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+
+td {
+    border: 1px solid black;
+    padding-right: 200px;
+    padding-left: 10px;
+}
+
